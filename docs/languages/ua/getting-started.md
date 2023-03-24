@@ -4,7 +4,7 @@
 Ви можете імпортувати LunariLib з директорії свого скрипту на гітхабі:
 
 ```lua
-local GuiLib = loadstring(game:HttpGet("https://github.com/FrostX-Official/LunariLib/main.lua"))()
+local GuiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/FrostX-Official/LunariLib/main/luaCode/MainLib.lua"))()
 ```
 
 ## Ваш перший GUI

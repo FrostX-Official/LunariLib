@@ -1,2 +1,2 @@
 # How to download LunariLib?
-There's no download link still, please wait until i will release library properly ;D
+To download LunariLib, the `MainLib.lua` and `GetGradientOnSliderLib.lua`, [click here.](https://github.com/FrostX-Official/LunariLib/tree/main/luaCode)
