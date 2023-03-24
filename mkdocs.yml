@@ -66,6 +66,3 @@ extra:
     - name: Ukrainian
       link: /languages/ua/
       lang: ua
-
-plugins:
-    - awesome-pages
